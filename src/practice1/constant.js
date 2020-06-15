@@ -1,3 +1,5 @@
+export {ADDRESS as address, PORT as port, PATH as path, REGION as region};
+
 const ADDRESS = "https://console.amazonaws.cn";
 const PORT = 4455;
 const PATH = "/api";
